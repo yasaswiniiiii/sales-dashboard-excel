@@ -1,2 +1,63 @@
-# sales-dashboard-excel
-A Sales Dashboard created in Microsoft Excel to analyze revenue, sales trends, and regional performance using charts and structured data. Built as part of the Future Interns internship.
+# 📊 Sales Dashboard in Excel
+
+## 📌 Task 1 – Future Interns Internship
+
+This project is a dynamic Sales Dashboard created using Microsoft Excel to analyze and visualize sales data.
+
+---
+
+## 🎯 Objective
+
+To transform raw sales data into meaningful insights using charts, KPIs, and structured datasets.
+
+---
+
+## 📂 Dataset
+
+The dataset includes:
+
+* Sales Person
+* Country
+* Product
+* Date
+* Revenue (Amount)
+* Units Sold (Boxes Shipped)
+
+---
+
+## 📊 Dashboard Features
+
+* 📈 Monthly Revenue Trend
+* 📊 Revenue by Country
+* 🥧 Sales Distribution (Pie Chart)
+* 📦 Units Shipped Analysis
+
+---
+
+## 🛠️ Tools Used
+
+* Microsoft Excel
+* Pivot Tables
+* Charts (Bar, Line, Pie)
+
+---
+
+## 📷 Dashboard Preview
+
+(Add screenshot here)
+
+---
+
+## 🚀 Outcome
+
+This dashboard helps in:
+
+* Tracking sales performance
+* Identifying top-performing regions
+* Understanding sales trends
+
+---
+
+## 📎 File
+
+* Sales_Dashboard.xlsx
