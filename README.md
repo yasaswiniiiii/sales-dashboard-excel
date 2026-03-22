@@ -61,3 +61,4 @@ This dashboard helps in:
 ## 📎 File
 
 * Sales_Dashboard.xlsx
+![Dashboard Preview](https://github.com/yasaswiniiiii/sales-dashboard-excel/blob/main/Screenshot%202026-03-22%20202952.png)
